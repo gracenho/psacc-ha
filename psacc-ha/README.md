@@ -9,7 +9,7 @@
 1. In homeassistant go to supervisor panel
 2. Then go to "ADD-ON store"
 3. On the top right click on the three dot ,then repository
-4. Past the following url https://github.com/flobz/psacc-ha 
+4. Past the following url https://github.com/gracenho/psacc-ha 
 5. Click on add
 6. At the bottom of the page you should see PSA Car Controller
 7. Click on it  and install
